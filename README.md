@@ -1,5 +1,5 @@
 # about-me
-👋 My name is David Theriault and I'm a Web Developer from sourthwestern Ontario Canada. My website can be found <a href="http://davidtheriault.ca">here</a> built using Wordpress, and if you want to see the code that I have writen on here in action you can go to <a href="http://projects.davidtheriault.ca">this page</a> which was built using Bootstrap. Both here and on the websites I just mentioned you can see what I can do for you as a Web Developer.
+👋 My name is David Theriault and I'm a Web Developer from sourthwestern Ontario Canada. My website can be found <a href="http://davidtheriault.ca">here</a> built using Wordpress, and if you want to see the code that I have writen on here in action you can go to <a href="http://projects.davidtheriault.ca">this page</a> which was built using Bootstrap. Both here and on the websites I just mentioned you can see what I can do for you as a Web Developer.<br/>
 <br/>
 🔭 I’m currently working on my portfolio for everyone to check out what I know how to do and things i'm exparimenting on.<br/>
 <br/>
