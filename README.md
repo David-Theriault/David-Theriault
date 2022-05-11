@@ -4,7 +4,7 @@ You can visit my Github resume by going <a href="https://resume.github.io/?David
 <br/>
 🔭 I’m currently working on my portfolio for everyone to check out what I know how to do and things i'm exparimenting on.<br/>
 <br/>
-🌱 I'm currently learning the diffent languages of the internet and you can see what I have done so far on here and at the links above... One can never know too much.<br/>
+🌱 I'm currently learning the different languages of the internet and you can see what I have done so far on here and at the links above... One can never know too much.<br/>
 <br/>
 👀 I'm interested in building awesome pages for anyone in need and using Github I'm able to show you what i'm capable of doing in conjuction with the websites listed in the links above.<br/>
 <br/>
